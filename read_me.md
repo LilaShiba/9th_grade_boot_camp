@@ -5,7 +5,7 @@ Goal: By the end of this boot camp you will know the basics of programming, your
 Playlist for Startup Boot Camp
 
 | Goal                                        | Method         
-| --------------------------------------------|
+| --------------------------------------------|------------------------------------------------------------------------------
 | Make guide for programming 101              | Create a blog, film, game, program, etc that teaches all topics in bootcamp
 | Complete labs 1 - 3                         | Design, program, comment, and add readme to your own unique programs
 | Pick your role                              | How will you help in a team
