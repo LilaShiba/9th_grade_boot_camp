@@ -22,7 +22,7 @@ At the end of each class, document what each team member worked on.
 | Code the guessing game                      | Follow the walk-a-long
 | Design/Diagram your own game                | Create logic of game and diagram control flow
 | Have game approved by teacher               | See teacher
-| Create Game                                 | Program and use FAQ for questions
+| Create Game                                 | Program, comment out code, and use FAQ for questions
 | Beta Test                                   | Have users try your game. Come up with how to make better
 
 
@@ -32,10 +32,13 @@ Your game should use the following:
 - use loop
 - use a variable that changes, while game is played or when a new game is started
 
-Example:
+# Game Walk-a-long
+
+### Full Example:
 ![guessing_game](https://github.com/kyle1james/9th_grade_boot_camp/blob/master/0/guess.png)
 
-# Game Walk-a-long
+### Logic Diagram
+![diagram](https://d1e4pidl3fu268.cloudfront.net/3a0db18b-46e3-407f-bd9e-3862f80818a7/NumberGuessingGame.png)
 
 ### How to Get User Input
 
@@ -98,7 +101,7 @@ while n != guess:
 - etc
 
 ### Bonus Questions
-- what is string interpolation and how do you do it?
+- what is string interpolation and show two ways to do string interpolation in python.
 - find and fix the one programming error in this readme file
 - team with most answers in the FAQ gets 5 bonus points
 
