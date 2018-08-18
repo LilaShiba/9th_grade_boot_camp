@@ -2,7 +2,13 @@
 
 Goal: To design and create a game that takes in user input.
 
-Roles: Remember the main [playlist](https://github.com/kyle1james/9th_grade_boot_camp/blob/master/README.md). While one or two of your teamates are programming, what else can you be doing? 
+Roles: Remember the main [playlist](https://github.com/kyle1james/9th_grade_boot_camp/blob/master/README.md). While one or two of your teamates are programming, what else can you be doing?
+
+### Bonus Questions
+- what is string interpolation and show two ways to do string interpolation in python.
+- find and fix the one programming error in this readme file
+- team with most answers in the FAQ gets 5 bonus points
+- team with best how-to and presents to class gets 5 bonus points
 
 ## What Are You Working On?
 At the end of each class, document what each team member worked on. 
@@ -100,8 +106,4 @@ while n != guess:
 - Buzzfeed quiz (what type of dog are you)
 - etc
 
-### Bonus Questions
-- what is string interpolation and show two ways to do string interpolation in python.
-- find and fix the one programming error in this readme file
-- team with most answers in the FAQ gets 5 bonus points
 
