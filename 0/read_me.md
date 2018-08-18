@@ -57,7 +57,7 @@ Now, we need to keep the user guessing until they get the right answer. The logi
 ```python
 # Loop to keep Guessing
 
-while n != "guess":
+while n != guess:
 
 # here we check the answer to help give clues
 	if guess < n:
