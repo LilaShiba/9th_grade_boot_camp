@@ -109,7 +109,7 @@ for x in num:
   if x % 2 == 0:
     print(x, " is even")
   else:
-    printx, (x, " is odd")
+    print(x, " is odd")
     
 ```
 in this example x is the iterator. That is the variable which changes value. Meaning, if I have a list = [1,2,3,4] x will first equal 1, then the program will check if 1 is even or odd, and print the result. Then x will equal 2, etc...
