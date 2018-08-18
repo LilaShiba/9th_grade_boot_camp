@@ -5,7 +5,7 @@
 
 
 ## Programming Cheat Sheet
-
+![pic-1](https://wyncode.co/wp-content/uploads/2014/08/171.jpg)
 
 ### Variables
 Variables are used to store information to be referenced and manipulated in a computer program. They also provide a way of labeling data with a descriptive name, so our programs can be understood more clearly by the reader and ourselves. It is helpful to think of variables as containers that hold information. Their sole purpose is to label and store data in memory. This data can then be used throughout your program. [source](https://launchschool.com/books/ruby/read/variables)
@@ -56,6 +56,7 @@ else:
 ### Operators
 When controlling how a program runs, operators help define conditionals. If x > 10, if y == x, etc.
 
+#### Relational Operator
 Operator     | Meaning 
 ------------ | ------------
 x == y | (x is equal to y)
@@ -65,8 +66,21 @@ x >  y | (x is greater than y)
 x <= y | (x is less than or equal to y)
 x >= y | (x is greater than or equal to y)
 
+
+#### Arithmetic Operator
+
+Operator     | Meaning 
+------------ | ------------
+x + y  | Adds values on either side of the operator
+x - y  | Subtracts right hand operand from left hand operand
+x * y  | Multiplies values on either side of the operator
+x / y  | Divides left hand operand by right hand operand
+x % y  | Modulus Divides left hand operand by right hand operand and returns remainder
+x ** y | Performs exponential (power) calculation on operators
+
+
 ### Loops
-A loop is a way to repeat a portion of code until a condition is met. For example, imagine having to read through a 1000 page expense report to find all costs above $10,000. A loop could do that for you. 
+A loop is a way to repeat a portion of code until a condition is met. For example, imagine having to read through a 1000 page expense report to find all costs above $10,000. A loop could do that for you. Or what if you had to make 1000 tacos? A loop could do that too.
 
 ![pic2](https://res.cloudinary.com/teepublic/image/private/s--MmSBmzkg--/t_Preview/b_rgb:262c3a,c_lpad,f_jpg,h_630,q_90,w_1200/v1496757724/production/designs/1649527_1.jpg)
 
