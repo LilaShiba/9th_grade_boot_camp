@@ -38,7 +38,7 @@ Your game should use the following:
 ![guessing_game](https://github.com/kyle1james/9th_grade_boot_camp/blob/master/0/guess.png)
 
 ### Logic Diagram
-![diagram](https://d1e4pidl3fu268.cloudfront.net/3a0db18b-46e3-407f-bd9e-3862f80818a7/NumberGuessingGame.png)
+![diagram](http://www.cs.kent.edu/~ssteinfa/classes/prog.sp06/topics/ch3/flowchart.gif)
 
 ### How to Get User Input
 
