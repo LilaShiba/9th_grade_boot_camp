@@ -18,7 +18,7 @@ At the end of each class, document what each team member worked on.
 - Is someone documenting/ creating the how-to program? 
 - How is preparing for the debate coming along?
 - Research, always research
-- stuck on a programing questions? Assign that TODO to one person and move along.
+- stuck on a programing question? Assign that TODO to one person and move along.
 
 
 ### Playlist:
