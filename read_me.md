@@ -1,11 +1,13 @@
 # 9th Grade Boot Camp
+Playlist for Startup Boot Camp
+
 
 
 
 
 
 ## Programming Cheat Sheet
-![pic-1](https://wyncode.co/wp-content/uploads/2014/08/171.jpg)
+![pic1](https://wyncode.co/wp-content/uploads/2014/08/171.jpg)
 
 ### Variables
 Variables are used to store information to be referenced and manipulated in a computer program. They also provide a way of labeling data with a descriptive name, so our programs can be understood more clearly by the reader and ourselves. It is helpful to think of variables as containers that hold information. Their sole purpose is to label and store data in memory. This data can then be used throughout your program. [source](https://launchschool.com/books/ruby/read/variables)
@@ -96,3 +98,15 @@ for x in num:
     
 ```
 in this example x is the iterator. That is the variable which changes value. Meaning, if I have a list = [1,2,3,4] x will first equal 1, then the program will check if 1 is even or odd, and print the result. Then x will equal 2, etc...
+
+
+```python
+
+n = 0
+count = 99
+
+while count < n:
+ print(count, "bottles of coke on the wall")
+  count = count - 1
+
+```
