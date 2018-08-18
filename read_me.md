@@ -1,13 +1,25 @@
 # 9th Grade Boot Camp
+
+Goal: By the end of this boot camp you will know the basics of programming, your role in your company, and have three ideas for what your startup will do or create.
+
 Playlist for Startup Boot Camp
 
+| Goal                                        | Method         
+| --------------------------------------------|
+| Make guide for programming 101              | Create a blog, film, game, program, etc that teaches all topics in bootcamp
+| Complete labs 1 - 3                         | Design, program, comment, and add readme to your own unique programs
+| Pick your role                              | How will you help in a team
+| Product research                            | What is your startup's product or service
+| Debate Topic                                | Prepare for debate 
 
 
+#### Debate Topics
+- [Not Everyone Should Code](https://www.youtube.com/watch?v=EFwa5Owp0-k)
+- [The Singularity](https://www.newyorker.com/magazine/2018/05/14/how-frightened-should-we-be-of-ai)
 
 
 
 ## Programming Cheat Sheet
-![pic1](https://wyncode.co/wp-content/uploads/2014/08/171.jpg)
 
 ### Variables
 Variables are used to store information to be referenced and manipulated in a computer program. They also provide a way of labeling data with a descriptive name, so our programs can be understood more clearly by the reader and ourselves. It is helpful to think of variables as containers that hold information. Their sole purpose is to label and store data in memory. This data can then be used throughout your program. [source](https://launchschool.com/books/ruby/read/variables)
@@ -29,6 +41,8 @@ In computer science and computer programming, a data type or simply type is a cl
 ### Control Flow
 
 In computer science, control flow (or flow of control) is the order in which individual statements, instructions or function calls of an imperative program are executed or evaluated. [source](https://en.wikipedia.org/wiki/Control_flow)
+
+#### Diagram of Control Flow
 
 ![pic](https://upload.wikimedia.org/wikipedia/commons/0/06/For-loop-diagram.png)
 
