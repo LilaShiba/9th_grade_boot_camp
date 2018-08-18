@@ -1,6 +1,6 @@
 # 9th Grade Boot Camp
 
-Goal: By the end of this boot camp you will know the basics of programming, your role in your company, and have three ideas for what your startup will do or create.
+Goal: By the end of this boot camp you will know the basics of programming, the current debates in comp sci, your role in your company, and have three ideas for what your startup will do or create.
 
 Playlist for Startup Boot Camp
 
@@ -8,7 +8,7 @@ Playlist for Startup Boot Camp
 | --------------------------------------------|------------------------------------------------------------------------------
 | Make guide for programming 101              | Create a blog, film, game, program, etc that teaches all topics in bootcamp
 | Complete labs 1 - 3                         | Design, program, comment, and add readme to your own unique programs
-| Pick your role                              | How will you help in a team
+| Pick your group role                        | How will you help in a team
 | Product research                            | What is your startup's product or service
 | Debate Topic                                | Prepare for debate 
 
@@ -18,6 +18,7 @@ Playlist for Startup Boot Camp
 - [The Singularity](https://www.newyorker.com/magazine/2018/05/14/how-frightened-should-we-be-of-ai)
 
 
+![doggo](https://github.com/kyle1james/9th_grade_boot_camp/blob/master/IgnDYD9.gif)
 
 ## Programming Cheat Sheet
 
