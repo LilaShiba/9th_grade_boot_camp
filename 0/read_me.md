@@ -2,6 +2,19 @@
 
 Goal: To design and create a game that takes in user input.
 
+Roles: Remember the main [playlist](https://github.com/kyle1james/9th_grade_boot_camp/blob/master/README.md). While one or two of your teamates are programming, what else can you be doing? 
+
+## What Are You Working On?
+At the end of each class, document what each team member worked on. 
+
+![what](https://thechive.files.wordpress.com/2017/02/you-will-either-love-or-hate-the-new-what-in-tarnation-meme-2.jpg?quality=85&strip=info&w=600)
+
+- Is someone documenting/ creating the how-to program? 
+- How is preparing for the debate coming along?
+- Research, always research
+- stuck on a programing questions? Assign that TODO to one person and move along.
+
+
 ### Playlist:
 
 | Goal                                        | Method         
@@ -17,7 +30,7 @@ Goal: To design and create a game that takes in user input.
 Your game should use the following:
 - use if/else statement
 - use loop
-- use a variable that changes while game is played
+- use a variable that changes, while game is played or when a new game is started
 
 Example:
 ![guessing_game](https://github.com/kyle1james/9th_grade_boot_camp/blob/master/0/guess.png)
@@ -83,3 +96,9 @@ while n != guess:
 - Magic 8 Ball
 - Buzzfeed quiz (what type of dog are you)
 - etc
+
+### Bonus Questions
+- what is string interpolation and how do you do it?
+- find and fix the one programming error in this readme file
+- team with most answers in the FAQ gets 5 bonus points
+
