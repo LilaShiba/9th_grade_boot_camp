@@ -41,7 +41,7 @@ Team policy debate is the oldest, and still probably the most popular, format of
 Our round of team policy debate consists of four speeches.  The first two speeches are called constructive speeches, because the teams are perceived as laying out their most important arguments during these speeches.  The last two speeches are called rebuttals, because the teams are expected to extend and apply arguments that have already been made, rather than make new arguments.
 
 - The affirmative team both begins and ends the debate
-- The negative side will have two speechs in a row
+- The negative side will have two speeches in a row
 - Every person will not present during the debate as a team will only have two debaters
 - This tasks is meant for those who enjoy theory and policy of technology rather than programming
 - Constructive speechs are eight minutes
