@@ -21,9 +21,10 @@ At the end of each class, document what each team member worked on.
 - stuck on a programing question? Assign that TODO to one person and move along.
 
 
-### Lab 0 Playlist:
-Keep all materials in one folder on google drive. 
-Screen shots or txt files of code for walk-a-long, for your own program, for your diagram, etc
+# Lab 0 Playlist:
+- Keep all materials in one folder on google drive.
+- name the folder 0_group name
+- Screen shots or txt files of code for walk-a-long, for your own program, for your diagram, etc
 
 
 | Goal                                        | Method         
@@ -36,6 +37,7 @@ Screen shots or txt files of code for walk-a-long, for your own program, for you
 | Have first debate speech rough draft	      | See teacher to get topic
 | First teacher meeting			      | Sign on up
 | Ask or Answer three things in FAQ 	      | Use that link!
+| Daily task list			      | Name of group member followed by what was done each day.
 
 
 # Game Walk-a-long
