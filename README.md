@@ -25,7 +25,8 @@ Our round of team policy debate consists of four speeches.  The first two speech
 - The negative side will have two speechs in a row
 - Every person will not present during the debate as a team will only have two debaters
 - This tasks is meant for those who enjoy theory and policy of technology rather than programming
-
+- Constructive speechs are eight minutes
+- Rebuttals are four - eight minutes
 
 #### Debate Topics
 - [Not Everyone Should Code](https://www.youtube.com/watch?v=EFwa5Owp0-k)
