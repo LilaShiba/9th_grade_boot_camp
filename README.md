@@ -13,6 +13,20 @@ Playlist for Startup Boot Camp
 | Debate Topic                                | Prepare for debate 
 
 
+#### Debate
+[source](http://www.csun.edu/~dgw61315/debformats.html#policy)
+
+Team policy debate is the oldest, and still probably the most popular, format of debate practiced in American high schools.  The proposition side is called the Affirmative or Aff, and the opposition side is called the Negative or Neg.  Each side is a team composed of two debaters, so that there are four people participating in the debate (not including the judge and audience). 
+
+#### Format  
+Our round of team policy debate consists of four speeches.  The first two speeches are called constructive speeches, because the teams are perceived as laying out their most important arguments during these speeches.  The last two speeches are called rebuttals, because the teams are expected to extend and apply arguments that have already been made, rather than make new arguments.
+
+- The affirmative team both begins and ends the debate
+- The negative side will have two speechs in a row
+- Every person will not present during the debate as a team will only have two debaters
+- This tasks is meant for those who enjoy theory and policy of technology rather than programming
+
+
 #### Debate Topics
 - [Not Everyone Should Code](https://www.youtube.com/watch?v=EFwa5Owp0-k)
 - [The Singularity](https://www.newyorker.com/magazine/2018/05/14/how-frightened-should-we-be-of-ai)
