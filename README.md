@@ -20,8 +20,18 @@ Playlist for Startup Boot Camp
 | Debate Topic                                | Prepare for debate
 | Teacher Check-ins                           | Minimum three per group
 
+# Links:
 
-#### Debate
+| What                                        | Link         
+| --------------------------------------------|------------------------------------------------------------------------------
+| Mr. James meeting sign up                   | [link]("#")
+| Mr. Moran meeting sign up                   | [link]("#")
+| Mrs. Ju meeting sign up                     | [link]("#")
+| Mr. New Guy sign up                         | [link]("#")
+| Python FAQ                                  | [link]("#")
+| P5JS FAQ                                    | [link]("#")
+
+# Debate
 [source](http://www.csun.edu/~dgw61315/debformats.html#policy)
 
 Team policy debate is the oldest, and still probably the most popular, format of debate practiced in American high schools.  The proposition side is called the Affirmative or Aff, and the opposition side is called the Negative or Neg.  Each side is a team composed of two debaters, so that there are four people participating in the debate (not including the judge and audience). 
