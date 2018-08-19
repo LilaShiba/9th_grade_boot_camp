@@ -9,7 +9,7 @@ Python will be used for the following reasons:
 
 You may, however, use [p5js](https://p5js.org/). P5js is best suited for those who wish to visualize (art people looking at you). Please see the teacher if you wish to use p5js.
 
-# Playlist for Startup Boot Camp
+# Playlist Overview for Startup Boot Camp
 
 | Goal                                        | Method         
 | --------------------------------------------|------------------------------------------------------------------------------
