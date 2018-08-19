@@ -13,7 +13,7 @@ You may, however, use [p5js](https://p5js.org/). P5js is best suited for those w
 
 | Goal                                        | Method         
 | --------------------------------------------|------------------------------------------------------------------------------
-| Make how-to guides for program 0 and 1      | [check list](https://github.com/kyle1james/9th_grade_boot_camp/blob/master/how_to_things.md)
+| Make how-to guides for programs 0 and 1     | [check list](https://github.com/kyle1james/9th_grade_boot_camp/blob/master/how_to_things.md)
 | Complete labs 1 - 3                         | Design, program, and comment your own unique programs
 | Pick your group role                        | How will you help in a team
 | Product research                            | What is your startup's product or service
