@@ -5,7 +5,9 @@
 **Language**:
 Python will be used for the following reasons: 
 - [reason one](https://stackoverflow.blog/2017/09/14/python-growing-quickly/) 
-- [reason two](https://stackoverflow.blog/2017/09/06/incredible-growth-python/). You may, however, use [p5js](https://p5js.org/). P5js is best suited for those who wish to visualize (art people looking at you). Please see the teacher if you wish to use p5js.
+- [reason two](https://stackoverflow.blog/2017/09/06/incredible-growth-python/). 
+
+You may, however, use [p5js](https://p5js.org/). P5js is best suited for those who wish to visualize (art people looking at you). Please see the teacher if you wish to use p5js.
 
 Playlist for Startup Boot Camp
 
