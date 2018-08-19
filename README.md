@@ -13,11 +13,12 @@ Playlist for Startup Boot Camp
 
 | Goal                                        | Method         
 | --------------------------------------------|------------------------------------------------------------------------------
-| Make guide for programming 101              | Create a blog, film, game, program, etc that teaches all topics in bootcamp
-| Complete labs 1 - 3                         | Design, program, comment, and add readme to your own unique programs
+| Make how-to guides for program 0 and 1      | [check list](https://github.com/kyle1james/9th_grade_boot_camp/blob/master/how_to_things.md)
+| Complete labs 1 - 3                         | Design, program, and commen your own unique programs
 | Pick your group role                        | How will you help in a team
 | Product research                            | What is your startup's product or service
-| Debate Topic                                | Prepare for debate 
+| Debate Topic                                | Prepare for debate
+| Teacher Check-ins                           | Minimum three per group
 
 
 #### Debate
