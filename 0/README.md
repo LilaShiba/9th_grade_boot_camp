@@ -25,7 +25,7 @@ At the end of each class, document what each team member worked on.
 
 | Goal                                        | Method         
 | --------------------------------------------|------------------------------------------------------------------------------
-| Code the guessing game                      | Follow the walk-a-long
+| Code the guessing game                      | Follow the walk-a-long [p5js walk-a-long](https://www.youtube.com/watch?v=TaN5At5RWH8)
 | Design/Diagram your own game                | Create logic of game and diagram control flow
 | Have game approved by teacher               | See teacher
 | Create Game                                 | Program, comment out code, and use FAQ for questions
@@ -104,13 +104,20 @@ Your game should use the following:
 - loop
 - a variable that changes, while game is played or when a new game is started
 ### Program Ideas:
-
+**python**
 - Madlibs
 - Age Guesser
 - Convert temp from F to C
 - Dice Roller
 - Magic 8 Ball
 - Buzzfeed quiz (what type of dog are you)
+- etc
+**p5js**
+- circles change color with number of clicks
+- solar system 
+- bouncing balls
+- [object communication](https://www.youtube.com/watch?v=5Q9cA0REztY)
+- [mouse interact](https://www.youtube.com/watch?v=TaN5At5RWH8&t=9s)
 - etc
 
 
