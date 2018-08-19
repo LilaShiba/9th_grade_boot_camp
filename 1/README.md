@@ -22,6 +22,8 @@ At the end of each class, document what each team member worked on.
 
 
 ### Lab 1 Playlist:
+- Keep all materials in one folder on google drive
+- Name the folder 1_group_name
 
 | Goal                                        | Method         
 | --------------------------------------------|------------------------------------------------------------------------------
@@ -33,6 +35,9 @@ At the end of each class, document what each team member worked on.
 | Create Program                              | Program, comment out code, and use FAQ for questions
 | Beta Test                                   | Have users try your program. Come up with how to make better
 | Have first debate speech done	              | Test speech on two peers. Take notes on their constructive feedback
+| Second teacher meeting			                | Sign on up
+| Ask or Answer three things in FAQ 	        | Use that link!
+| Daily task list			                        | Name of group member followed by what was done each day.
 
 # Readings
 These readings will help in your quest. For your language, make sure you know what and how to create/use methods and data structures. You will need to find your own sources as these two readings will not be enough.
