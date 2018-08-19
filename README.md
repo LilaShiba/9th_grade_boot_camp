@@ -1,9 +1,11 @@
 # 9th Grade Boot Camp
 
-Goal: By the end of this boot camp you will know the basics of programming, the current debates in comp sci, your role in your company, and have three ideas for what your startup will do or create.
+**Goal**: By the end of this boot camp you will know the basics of programming, the current debates in comp sci, your role in your company, and have three ideas for what your startup will do or create.
 
-Language:
-Python will be used for the following reasons: [reason one](https://stackoverflow.blog/2017/09/14/python-growing-quickly/) [reason two](https://stackoverflow.blog/2017/09/06/incredible-growth-python/). You may, however, use [p5js](https://p5js.org/). P5js is best suited for those who wish to visualize (art people looking at you). Please see the teacher if you wish to use p5js.
+**Language**:
+Python will be used for the following reasons: 
+- [reason one](https://stackoverflow.blog/2017/09/14/python-growing-quickly/) 
+- [reason two](https://stackoverflow.blog/2017/09/06/incredible-growth-python/). You may, however, use [p5js](https://p5js.org/). P5js is best suited for those who wish to visualize (art people looking at you). Please see the teacher if you wish to use p5js.
 
 Playlist for Startup Boot Camp
 
