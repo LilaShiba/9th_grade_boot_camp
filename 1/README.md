@@ -37,7 +37,6 @@ At the end of each class, document what each team member worked on.
 # Readings
 These readings will help in your quest. For your language, make sure you know what and how to create/use methods and data structures. You will need to find your own sources as these two readings will not be enough.
 
-For Data Structures:
 #### python
 readings:
 
