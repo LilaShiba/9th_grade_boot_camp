@@ -19,6 +19,7 @@ You may, however, use [p5js](https://p5js.org/). P5js is best suited for those w
 | Product research                            | What is your startup's product or service
 | Debate Topic                                | Prepare for debate
 | Teacher Check-ins                           | Minimum three per group
+| Ted talk or Pitch of Startup                | What makes sense for your produc?
 
 # Links:
 
