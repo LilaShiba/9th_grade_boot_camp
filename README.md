@@ -9,6 +9,14 @@ Python will be used for the following reasons:
 
 You may, however, use [p5js](https://p5js.org/). P5js is best suited for those who wish to visualize (art people looking at you). Please see the teacher if you wish to use p5js.
 
+Take time now to pick a language to use. Read through the three sources given.
+
+p5js can be sumed up as a great way to be creative and:
+
+![p5](https://i.imgur.com/3ZOJ013.png)
+
+python is the future and the future is now
+
 # Playlist Overview for Startup Boot Camp
 
 | Goal                                        | Method         
