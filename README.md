@@ -57,10 +57,13 @@ Our round of team policy debate consists of four speeches.  The first two speech
 
 ### How to Run a Program
 
+![file path pic](https://github.com/kyle1james/9th_grade_boot_camp/blob/master/0/filepath.png)
+
+[p5js run a program](https://p5js.org/get-started/)
+
+
 **File Path**
 A path, the general form of the name of a file or directory, specifies a unique location in a file system. A path points to a file system location by following the directory tree hierarchy expressed in a string of characters in which path components, separated by a delimiting character, represent each directory. The delimiting character is most commonly the slash ("/"), the backslash character ("\"), or colon (":")
-
-
 
 
 ### Variables
