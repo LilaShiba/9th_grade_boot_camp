@@ -9,7 +9,7 @@ Python will be used for the following reasons:
 
 You may, however, use [p5js](https://p5js.org/). P5js is best suited for those who wish to visualize (art people looking at you). Please see the teacher if you wish to use p5js.
 
-Playlist for Startup Boot Camp
+# Playlist for Startup Boot Camp
 
 | Goal                                        | Method         
 | --------------------------------------------|------------------------------------------------------------------------------
@@ -53,7 +53,7 @@ Our round of team policy debate consists of four speeches.  The first two speech
 
 ![doggo](https://github.com/kyle1james/9th_grade_boot_camp/blob/master/IgnDYD9.gif)
 
-## Programming Cheat Sheet
+# Programming Cheat Sheet
 
 ### Variables
 Variables are used to store information to be referenced and manipulated in a computer program. They also provide a way of labeling data with a descriptive name, so our programs can be understood more clearly by the reader and ourselves. It is helpful to think of variables as containers that hold information. Their sole purpose is to label and store data in memory. This data can then be used throughout your program. [source](https://launchschool.com/books/ruby/read/variables)
