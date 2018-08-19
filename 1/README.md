@@ -49,7 +49,7 @@ Know:
 - lists
 - dictionary
 #### p5js
-The coding walk-a-long will answer most of your questions
+The coding walk-a-long will answer most of your questions, however, it is a difficult task.
 
 - array
 - hash
