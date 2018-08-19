@@ -29,8 +29,8 @@ At the end of each class, document what each team member worked on.
 | --------------------------------------------|------------------------------------------------------------------------------
 | Figure out what and how to use Methods      | This should be a part of your how-to for this lab (see readings)
 | Figure out what and how to use Data Strc... | This should be a part of your how-to for this lab (see readings)
-| Code the cipher game                        | Follow the walk-a-long - [p5js walk-a-long](https://www.youtube.com/watch?v=OAcXnzRNiCY)
-| Design/Diagram your own game                | Create logic of game and diagram control flow
+| Create program from walk-a-long             | Follow the walk-a-long - [p5js walk-a-long](https://www.youtube.com/watch?v=OAcXnzRNiCY)
+| Design/Diagram your own program             | Create logic of program and diagram control flow
 | Have program approved by teacher            | See teacher
 | Create Program                              | Program, comment out code, and use FAQ for questions
 | Beta Test                                   | Have users try your program. Come up with how to make better
@@ -59,6 +59,25 @@ The coding walk-a-long will answer most of your questions, however, it is a diff
 - hash
 
 # Coding Walk-a-long
-[p5js walk-a-long](https://www.youtube.com/watch?v=OAcXnzRNiCY)
+
+**p5js**
+- [Art with physics](https://www.youtube.com/watch?v=OAcXnzRNiCY)
+- [p5 API data](https://www.youtube.com/watch?v=rJaXOFfwGVw&list=PLRqwX-V7Uu6a-SQiI4RtIwuOrLJGnel0r)
+- [change an image from webcam](https://www.youtube.com/watch?v=nMUMZ5YRxHI)
+
+**python**
+We will be building off of everything you learned in the last lab.
 
 
+
+# Ideas for Program
+- decrypt method added to walk-a-long
+- music data base
+- best food near dwight based on user input (such as weather, price, time) program
+- what type of dog should you get
+
+
+- API calls and represent data as art
+- Object interacting with several forces
+- Image rendering 
+- 
