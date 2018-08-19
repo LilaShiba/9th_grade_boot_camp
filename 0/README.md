@@ -8,7 +8,7 @@ Roles: Remember the main [playlist](https://github.com/kyle1james/9th_grade_boot
 - what is string interpolation and show two ways to do string interpolation in python.
 - find and fix the one programming error in this readme file
 - team with most answers in the FAQ gets 5 bonus points
-- team with best how-to and presents to class gets 5 bonus points
+- team with best how-to for this lab and presents to class gets 5 bonus points
 
 ## What Are You Working On?
 At the end of each class, document what each team member worked on. 
