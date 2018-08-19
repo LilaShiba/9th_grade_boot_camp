@@ -21,7 +21,7 @@ At the end of each class, document what each team member worked on.
 - stuck on a programing question? Assign that TODO to one person and move along.
 
 
-### Playlist:
+### Lab 0 Playlist:
 
 | Goal                                        | Method         
 | --------------------------------------------|------------------------------------------------------------------------------
@@ -30,21 +30,22 @@ At the end of each class, document what each team member worked on.
 | Have game approved by teacher               | See teacher
 | Create Game                                 | Program, comment out code, and use FAQ for questions
 | Beta Test                                   | Have users try your game. Come up with how to make better
+| Have first debate speech rough draft	      | See teacher to get topic
 
 
 ### Game Checklist:
 Your game should use the following:
-- use if/else statement
-- use loop
-- use a variable that changes, while game is played or when a new game is started
+- if/else statement
+- loop
+- a variable that changes, while game is played or when a new game is started
 
 # Game Walk-a-long
 
-### Full Example:
-![guessing_game](https://github.com/kyle1james/9th_grade_boot_camp/blob/master/0/guess.png)
-
 ### Logic Diagram
 ![diagram](http://www.cs.kent.edu/~ssteinfa/classes/prog.sp06/topics/ch3/flowchart.gif)
+
+### Full Example with Comments:
+![guessing_game](https://github.com/kyle1james/9th_grade_boot_camp/blob/master/0/guess.png)
 
 ### How to Get User Input
 
