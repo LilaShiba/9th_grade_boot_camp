@@ -70,7 +70,7 @@ Comment code as you build
 **Goal**: We will be building off of everything you learned in the last lab to create a tic-tac-toe game where the user can see the board.
 
 ### Diagram
-![tic-tac-toe](https://inventwithpython.com/invent4thed/images/00110.jpeg)
+![tic-tac-toe](https://lh3.googleusercontent.com/-kbg8DEwormM/Vzts_f9VpyI/AAAAAAAADs8/-Q5O5JcyYng/tictacstate_thumb%25255B2%25255D.png?imgmax=800)
 
 
 
