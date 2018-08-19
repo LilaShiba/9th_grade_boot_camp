@@ -22,6 +22,9 @@ At the end of each class, document what each team member worked on.
 
 
 ### Lab 0 Playlist:
+Keep all materials in one folder on google drive. 
+Screen shots or txt files of code for walk-a-long, for your own program, for your diagram, etc
+
 
 | Goal                                        | Method         
 | --------------------------------------------|------------------------------------------------------------------------------
