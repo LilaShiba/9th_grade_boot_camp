@@ -1,4 +1,4 @@
-# 9th Grade Boot Camp
+# Programming Boot Camp
 
 **Goal**: By the end of this boot camp you will know the basics of programming, the current debates in comp sci, your role in your company, and have three ideas for what your startup will do or create.
 
