@@ -33,12 +33,6 @@ At the end of each class, document what each team member worked on.
 | Have first debate speech rough draft	      | See teacher to get topic
 
 
-### Game Checklist:
-Your game should use the following:
-- if/else statement
-- loop
-- a variable that changes, while game is played or when a new game is started
-
 # Game Walk-a-long
 
 ### Logic Diagram
@@ -97,6 +91,18 @@ while n != guess:
 		break
     
 ```
+# Create Your Game
+As above, to finish, you should have:
+
+- a logic diagram for your game
+- commented program of your game
+- a how-to program your game
+
+### Game Checklist:
+Your game should use the following:
+- if/else statement
+- loop
+- a variable that changes, while game is played or when a new game is started
 ### Program Ideas:
 
 - Madlibs
