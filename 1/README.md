@@ -38,12 +38,20 @@ At the end of each class, document what each team member worked on.
 These readings will help in your quest. For your language, make sure you know what and how to create/use methods and data structures. You will need to find your own sources as these two readings will not be enough.
 
 For Data Structures:
-**python**
+##### python
+readings:
+
+- [what is a method](https://stackoverflow.com/questions/3786881/what-is-a-method-in-python)
+- [what are data structures](https://docs.python.org/3/tutorial/datastructures.html
+
+Know:
+
 - lists
 - dictionary
-**p5js**
+##### p5js
+The coding walk-a-long will answer most of your questions
+
 - array
 - hash
-- [what is a method](https://stackoverflow.com/questions/3786881/what-is-a-method-in-python)
-- [what are data structures](https://docs.python.org/3/tutorial/datastructures.html)
+
 
