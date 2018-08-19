@@ -60,18 +60,22 @@ The coding walk-a-long will answer most of your questions, however, it is a diff
 
 # Coding Walk-a-long
 
-**p5js**
+## p5js
+Comment code as you build
 - [Art with physics](https://www.youtube.com/watch?v=OAcXnzRNiCY)
 - [p5 API data](https://www.youtube.com/watch?v=rJaXOFfwGVw&list=PLRqwX-V7Uu6a-SQiI4RtIwuOrLJGnel0r)
 - [change an image from webcam](https://www.youtube.com/watch?v=nMUMZ5YRxHI)
 
-**python**
-We will be building off of everything you learned in the last lab.
+## Python
+**Goal**: We will be building off of everything you learned in the last lab to create a tic-tac-toe game where the user can see the board.
+
+### Diagram
+![tic-tac-toe](https://inventwithpython.com/invent4thed/images/00110.jpeg)
 
 
 
 # Ideas for Program
-- decrypt method added to walk-a-long
+- encrypt method
 - music data base
 - best food near dwight based on user input (such as weather, price, time) program
 - what type of dog should you get
