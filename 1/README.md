@@ -29,7 +29,7 @@ At the end of each class, document what each team member worked on.
 | --------------------------------------------|------------------------------------------------------------------------------
 | Figure out what and how to use Methods      | This should be a part of your how-to for this lab (see readings)
 | Figure out what and how to use Data Strc... | This should be a part of your how-to for this lab (see readings)
-| Create program from walk-a-long             | Follow the walk-a-long - [p5js walk-a-long](https://www.youtube.com/watch?v=OAcXnzRNiCY)
+| Create program from walk-a-long             | Follow the walk-a-long - [p5js walk-a-long](https://www.youtube.com/watch?v=OAcXnzRNiCY) - [Circuit Playground](https://kyle1james.github.io/cp_midi_2018/) program a MIDI
 | Design/Diagram your own program             | Create logic of program and diagram control flow
 | Have program approved by teacher            | See teacher
 | Create Program                              | Program, comment out code, and use FAQ for questions
