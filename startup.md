@@ -24,17 +24,17 @@ LEAN for physical product
 What speaks to you? The only real goal of this unit is to empower you by teaching the skills needed to make an idea into reality. 
 Some topics for this unit are as follows:
 
-**Astrobiology, the Power of Myth, and Colonization**
-	- Latest scientific understanding of life & culture in the universe
-	- How to deal with science disbelievers and misinformation 
-  - Long term space travel, colonization, and terraforming
-	- Gain a galactic perspective
-**The Anthropocene and the Fate of Humanity**
-	- Latest science of our current epoch and challenges to our survival
-	- The philosophy of ethics 
-  - How to deal with science disbelievers and misinformation
-  - Current political-economy
-  **The UN Sustainable Goals**
-  - [Goals](https://www.un.org/sustainabledevelopment/sustainable-development-goals/)
-  - Make the world better
-  - Continue project from last year
+#### Astrobiology, the Power of Myth, and Colonization
+- Latest scientific understanding of life & culture in the universe
+- How to deal with science disbelievers and misinformation 
+- Long term space travel, colonization, and terraforming
+- Gain a galactic perspective
+#### The Anthropocene and the Fate of Humanity
+- Latest science of our current epoch and challenges to our survival
+- The philosophy of ethics 
+- How to deal with science disbelievers and misinformation
+- Current political-economy
+#### The UN Sustainable Goals
+- [Goals](https://www.un.org/sustainabledevelopment/sustainable-development-goals/)
+- Make the world better
+- Continue project from last year
