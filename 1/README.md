@@ -42,19 +42,17 @@ At the end of each class, document what each team member worked on.
 # Readings
 These readings will help in your quest. For your language, make sure you know what and how to create/use methods and data structures. You will need to find your own sources as these two readings will not be enough.
 
-#### python
-readings:
-
 - [what is a method](https://stackoverflow.com/questions/3786881/what-is-a-method-in-python)
 - [really, what is a method](https://automatetheboringstuff.com/chapter3/)
 - [what are data structures](https://docs.python.org/3/tutorial/datastructures.html)
 
+#### python
 Know:
 
 - lists
 - dictionary
 - how to create and call a method
-#### p5js
+#### p5js and circuit playground
 The coding walk-a-long will answer most of your questions, however, it is a difficult task.
 
 - array
