@@ -139,7 +139,7 @@ else:
   
 ```
 ### Circuit Playground Setup 
-- [Circuit Playground code-a-long](https://github.com/kyle1james/led_art_example)
+If you are working with the Circuit Playground, detour to the link below from here.
 - [set up circuit playground](https://github.com/kyle1james/led_art_example/tree/master/circuit_playground)
 
 ### Operators
