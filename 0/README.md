@@ -29,7 +29,7 @@ At the end of each class, document what each team member worked on.
 
 | Goal                                        | Method         
 | --------------------------------------------|------------------------------------------------------------------------------
-| Code the guessing game                      | Follow the walk-a-long - [p5js walk-a-long](https://www.youtube.com/watch?v=TaN5At5RWH8) - For [Circuit Playground](https://github.com/kyle1james/led_art_example/tree/master/examples) follow using sensor guide
+| Code the guessing game                      | Follow the walk-a-long - [p5js walk-a-long](https://www.youtube.com/watch?v=TaN5At5RWH8) - For [Circuit Playground](https://github.com/kyle1james/led_art_example) follow using sensor guide
 | Design/Diagram your own game                | Create logic of game and diagram control flow
 | Have game approved by teacher               | See teacher
 | Create Game                                 | Program, comment out code, and use FAQ for questions
