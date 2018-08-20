@@ -6,7 +6,7 @@ Roles: Remember the main [playlist](https://github.com/kyle1james/9th_grade_boot
 
 ### Bonus Questions
 - what is the difference between abstraction and encapsulation and show two ways either abstraction or encapsulation is done in python.
-- find and fix the one programming error in this readme file
+- What is a better way to structure  data in unit_1. There is one glaring issues.
 - team with most answers in the FAQ gets 5 bonus points
 - team with best how-to for this lab and presents to class gets 5 bonus points
 
