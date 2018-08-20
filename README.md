@@ -94,7 +94,7 @@ In computer science, control flow (or flow of control) is the order in which ind
 
 #### Diagram of Control Flow
 
-![pic](https://upload.wikimedia.org/wikipedia/commons/0/06/For-loop-diagram.png)
+![pic]https://pics.astrologymemes.com/dmk-fire-safety-flowchart-stop-thats-how-ruff-ryders-roll-26553683.png)
 
 ### Types of Control Flow
 There are many ways to control your program. Here, we will go over the most commonly used. It is important to remember that there are many ways to write a program, however, we will seek for the best.
