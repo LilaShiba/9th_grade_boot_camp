@@ -33,8 +33,13 @@ These topics should be addressed in the corresponding how-to guides
 | Make guide for program from lab 0           | Can be commented code or video, game, etc
 | Make guide for program from lab 1           | Can be commented code or video, game, etc
 
+### Daily Ideas and Tasks
+Your group should have a google doc that details what was done by whom for everyday of class. This is to track work, to make sure the work load is fair, and to keep a record of ideas. This isn't meant to be busy work or to take a long time. At the end of each class you will be given 5 mins to fill this out and to check the FAQ.
 
-### Ways to make Guides:
+Your ideas are any thoughts- however strange- in connection with class and the end goal of this unit: creating a startup. By the time we get to the last lab you will have several ideas documented about what you want your startup to do, what role you want to play, and a deeper understanding of how your team works.
+
+### Ways to make How-To Guides:
+You are encouraged to be as creative as you can be. The list below is not definitive but merely suggestions
 - Video
 - Blog
 - [Markdown web page](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
