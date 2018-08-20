@@ -93,8 +93,11 @@ In computer science and computer programming, a data type or simply type is a cl
 In computer science, control flow (or flow of control) is the order in which individual statements, instructions or function calls of an imperative program are executed or evaluated. [source](https://en.wikipedia.org/wiki/Control_flow)
 
 #### Diagram of Control Flow
+A flowchart is a type of diagram that represents an algorithm, workflow or process, showing the steps as boxes of various kinds, and their order by connecting them with arrows. This diagrammatic representation illustrates a solution model to a given problem.
 
-![pic]https://pics.astrologymemes.com/dmk-fire-safety-flowchart-stop-thats-how-ruff-ryders-roll-26553683.png)
+- [source](https://www.lucidchart.com/pages/what-is-a-flowchart-tutorial)
+
+![pic](https://pics.astrologymemes.com/dmk-fire-safety-flowchart-stop-thats-how-ruff-ryders-roll-26553683.png)
 
 ### Types of Control Flow
 There are many ways to control your program. Here, we will go over the most commonly used. It is important to remember that there are many ways to write a program, however, we will seek for the best.
