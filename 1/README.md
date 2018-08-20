@@ -61,6 +61,9 @@ The coding walk-a-long will answer most of your questions, however, it is a diff
 - hash
 - how to create and call a method
 
+![pic](http://www.reactiongifs.com/wp-content/uploads/2013/08/hard-life.gif)
+
+
 # Coding Walk-a-long
 
 ## p5js
@@ -73,7 +76,6 @@ Choose your own adventure. Comment your code as you build!
 ## Python
 **Goal**: We will be building off of everything you learned in the last lab to create a tic-tac-toe game where the user can see the board.
 
-![pic](http://www.reactiongifs.com/wp-content/uploads/2013/08/hard-life.gif)
 
 ### Diagram
 ![tic-tac-toe](https://lh3.googleusercontent.com/-kbg8DEwormM/Vzts_f9VpyI/AAAAAAAADs8/-Q5O5JcyYng/tictacstate_thumb%25255B2%25255D.png?imgmax=800)
