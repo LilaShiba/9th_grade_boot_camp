@@ -2,6 +2,12 @@
 
 **Goal**: By the end of this boot camp you will know the basics of programming, the current debates in comp sci, your role in your company, and have three ideas for what your startup will do or create.
 
+**What is Programming?**
+
+Television shows and films often show programmers furiously typing cryptic streams of 1s and 0s on glowing screens, but modern programming isn’t that mysterious. Programming is simply the act of entering instructions for the computer to perform. These instructions might crunch some numbers, modify text, look up information in files, or communicate with other computers over the Internet.
+
+- This [source](https://automatetheboringstuff.com/chapter0/) will be the greatest help for this unit
+
 **Language**:
 Python will be used for the following reasons: 
 - [reason one](https://stackoverflow.blog/2017/09/14/python-growing-quickly/) 
@@ -9,7 +15,7 @@ Python will be used for the following reasons:
 
 You may, however, use [p5js](https://p5js.org/). P5js is best suited for those who wish to visualize (art people looking at you). Please see the teacher if you wish to use p5js.
 
-Take time now to pick a language to use. Read through the three sources given.
+Take time now to pick a language to use. Read through the four sources given.
 
 
 # Playlist Overview for Startup Boot Camp
@@ -60,6 +66,9 @@ Our round of team policy debate consists of four speeches.  The first two speech
 
 # Programming Cheat Sheet
 
+- [basics](https://automatetheboringstuff.com/chapter1/)
+
+
 ### How to Run a Program
 
 ![file path pic](https://github.com/kyle1james/9th_grade_boot_camp/blob/master/0/filepath.png)
@@ -69,6 +78,8 @@ Our round of team policy debate consists of four speeches.  The first two speech
 
 **File Path**
 A path, the general form of the name of a file or directory, specifies a unique location in a file system. A path points to a file system location by following the directory tree hierarchy expressed in a string of characters in which path components, separated by a delimiting character, represent each directory. The delimiting character is most commonly the slash ("/"), the backslash character ("\"), or colon (":")
+
+- [learn more about file paths](https://automatetheboringstuff.com/chapter8/)
 
 
 ### Variables
@@ -90,12 +101,14 @@ In computer science and computer programming, a data type or simply type is a cl
 
 ### Control Flow
 
-In computer science, control flow (or flow of control) is the order in which individual statements, instructions or function calls of an imperative program are executed or evaluated. [source](https://en.wikipedia.org/wiki/Control_flow)
+In computer science, control flow (or flow of control) is the order in which individual statements, instructions or function calls of an imperative program are executed or evaluated. 
+
+- [source](https://en.wikipedia.org/wiki/Control_flow)
 
 #### Diagram of Control Flow
 A flowchart is a type of diagram that represents an algorithm, workflow or process, showing the steps as boxes of various kinds, and their order by connecting them with arrows. This diagrammatic representation illustrates a solution model to a given problem.
 
-- [source](https://www.lucidchart.com/pages/what-is-a-flowchart-tutorial)
+- [learn more about flow charts](https://www.lucidchart.com/pages/what-is-a-flowchart-tutorial)
 
 ![pic](https://pics.astrologymemes.com/dmk-fire-safety-flowchart-stop-thats-how-ruff-ryders-roll-26553683.png)
 
