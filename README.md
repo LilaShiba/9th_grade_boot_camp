@@ -29,7 +29,7 @@ Take time now to pick a language to use. Read through the sources given and give
 | Make how-to guides for programs 0 and 1     | [check list](https://github.com/kyle1james/9th_grade_boot_camp/blob/master/how_to_things.md)
 | Complete lab 0                              | [Lab 0](https://github.com/kyle1james/9th_grade_boot_camp/tree/master/0#programming-101) Design, program, and comment your own unique programs
 | Complete lab 1                              | [Lab 1](https://github.com/kyle1james/9th_grade_boot_camp/tree/master/1#data-structures-and-methods) Design, program, and comment your own unique programs
-| Create a Startup                            | [what debate?](https://github.com/kyle1james/9th_grade_boot_camp/blob/master/startup.md)
+| Create a Startup                            | [what?](https://github.com/kyle1james/9th_grade_boot_camp/blob/master/startup.md)
 | Debate                                      | Prepare for and conduct [debate](https://github.com/kyle1james/9th_grade_boot_camp/blob/master/README.md#debate)
 | Teacher Check-ins                           | Minimum three per group
 | Ted talk or Pitch of Startup                | What makes [sense](https://github.com/kyle1james/9th_grade_boot_camp/blob/master/startup.md) for your group?
