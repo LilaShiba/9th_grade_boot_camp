@@ -2,6 +2,8 @@
 
 **Goal**: By the end of this boot camp you will know the basics of programming, the current debates in comp sci, your role in your company, and have three ideas for what your startup will do or create.
 
+**Method** Your group will hone in on one type of technology: hands on building with hardware, backend programming, or visual programming. You will then create a startup that has a product or service that changes the way we view and interact with the world
+
 **What is Programming?**
 
 "Television shows and films often show programmers furiously typing cryptic streams of 1s and 0s on glowing screens, but modern programming isn’t that mysterious. Programming is simply the act of entering instructions for the computer to perform. These instructions might crunch some numbers, modify text, look up information in files, or communicate with other computers over the Internet."
