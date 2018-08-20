@@ -43,6 +43,7 @@ Take time now to pick a language to use. Read through the sources given and give
 | Mr. New Guy sign up                         | [link]("#")
 | Python FAQ                                  | [link]("#")
 | P5JS FAQ                                    | [link]("#")
+| Circuit Playground FAQ                      | [link]("#")
 
 # Debate
 [source](http://www.csun.edu/~dgw61315/debformats.html#policy)
