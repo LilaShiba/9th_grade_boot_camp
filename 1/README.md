@@ -71,6 +71,15 @@ Choose your own adventure. Comment your code as you build!
 - [Art with API data](https://www.youtube.com/watch?v=rJaXOFfwGVw&list=PLRqwX-V7Uu6a-SQiI4RtIwuOrLJGnel0r)
 - [Change an image from webcam](https://www.youtube.com/watch?v=nMUMZ5YRxHI)
 
+## Circuit Playground
+You will program a MIDI
+- [Circuit Playground](https://kyle1james.github.io/cp_midi_2018/) program a MIDI
+
+Ideas to add on to this program:
+- light show
+- dance wear
+- light drawing
+
 ## Python
 **Goal**: We will be building off of everything you learned in the last lab to create a tic-tac-toe game where the user can see the board.
 
