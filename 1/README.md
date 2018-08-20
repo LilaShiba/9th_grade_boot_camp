@@ -53,11 +53,13 @@ Know:
 
 - lists
 - dictionary
+- how to create and call a method
 #### p5js
 The coding walk-a-long will answer most of your questions, however, it is a difficult task.
 
 - array
 - hash
+- how to create and call a method
 
 # Coding Walk-a-long
 
@@ -88,4 +90,4 @@ Choose your own adventure. Comment your code as you build!
 - API calls and represent data as art
 - Object interacting with several forces
 - Image rendering 
-- 
+- etc
