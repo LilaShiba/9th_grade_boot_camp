@@ -15,7 +15,9 @@ Python will be used for the following reasons:
 
 You may, however, use [p5js](https://p5js.org/). P5js is best suited for those who wish to visualize (art people looking at you). Please see the teacher if you wish to use p5js.
 
-Take time now to pick a language to use. Read through the four sources given.
+If you wish to create [tech-fashion](https://learn.adafruit.com/sparkle-skirt/overview) you will have to follow the circuit playground guides. The syntax is much harder, but a great choice if you want to build with your hands.
+
+Take time now to pick a language to use. Read through the sources given and give credence for your choice.
 
 
 # Playlist Overview for Startup Boot Camp
@@ -135,6 +137,8 @@ else:
   print("I am smaller than 10")
   
 ```
+
+[Circuit Playground](https://github.com/kyle1james/led_art_example)
 
 ### Operators
 When controlling how a program runs, operators help define conditionals. If x > 10, if y == x, etc.
