@@ -128,6 +128,6 @@ Your game should use the following:
 - etc
 
 ### Nice Job!
-[jake](https://media.giphy.com/media/8Ry7iAVwKBQpG/giphy.gif)
+![jake](https://media.giphy.com/media/8Ry7iAVwKBQpG/giphy.gif)
 
 
