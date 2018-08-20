@@ -10,9 +10,11 @@ This will be the last lab of this unit. By this point you will have the skills t
 The main method of obtaining these goals will be the LEAN cycle
 
 LEAN for programming:
+
 ![lean1](https://timesheetchronicles.files.wordpress.com/2015/05/lean-startup-cycle.png?w=620)
 
 LEAN for physical product
+
 ![lean2](https://www.lightcastlebd.com/wp-content/uploads/2017/07/MVP-lean.jpg)
 
 # What Should I Make
