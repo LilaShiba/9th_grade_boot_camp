@@ -38,3 +38,5 @@ Some topics for this unit are as follows:
 - [Goals](https://www.un.org/sustainabledevelopment/sustainable-development-goals/)
 - Make the world better
 - Continue project from last year
+
+You should be thinking about and recording your ideas for what your startup will do everyday. You may come up with your own topic, however, it needs to be approved by your teacher.
