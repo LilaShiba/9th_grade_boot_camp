@@ -138,8 +138,9 @@ else:
   print("I am smaller than 10")
   
 ```
-
-[Circuit Playground](https://github.com/kyle1james/led_art_example)
+### Circuit Playground Setup 
+- [Circuit Playground code-a-long](https://github.com/kyle1james/led_art_example)
+- [set up circuit playground](https://github.com/kyle1james/led_art_example/tree/master/circuit_playground)
 
 ### Operators
 When controlling how a program runs, operators help define conditionals. If x > 10, if y == x, etc.
