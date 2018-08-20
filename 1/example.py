@@ -22,9 +22,17 @@ for i in range(9):
 	move = input()
     # update hash
 	theBoard[move] = turn
+    #TODO add win method
+    #if win(turn, theBoard) == True:
+    #    print(turn, 'won')
     # change whos turn it is
 	if turn == 'X':
 		turn = 'O'
 	else:
 		turn = 'X'
+
+    def win(turn, board):
+        pass
+
+
 printBoard(theBoard)
