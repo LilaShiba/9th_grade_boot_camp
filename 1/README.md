@@ -143,6 +143,9 @@ printBoard(theBoard)
 
 ```
 
+**passing data from methods**
+![method](https://github.com/kyle1james/9th_grade_boot_camp/blob/master/1/Sketch%20(1)Method.png)
+
 # Ideas for Program
 - make the tic-tac-toe game better (score, win screen, computer player, etc)
 - encrypt method
