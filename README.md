@@ -30,10 +30,10 @@ Take time now to pick a language to use. Read through the sources given and give
 | Complete labs 1 - 3                         | Design, program, and comment your own unique programs
 | Pick your group role                        | How will you help in a team
 | Create a Startup                            | [what](https://github.com/kyle1james/9th_grade_boot_camp/blob/master/startup.md)
-| Debate                                      | Prepare for and conduct debate
+| Debate                                      | Prepare for and conduct [debate](https://github.com/kyle1james/9th_grade_boot_camp/blob/master/README.md#debate)
 | Teacher Check-ins                           | Minimum three per group
-| Ted talk or Pitch of Startup                | What makes sense for your group?
-| Daily Ideas and Tasks                       | Who did what and any ideas you have for your startup
+| Ted talk or Pitch of Startup                | What makes [sense](https://github.com/kyle1james/9th_grade_boot_camp/blob/master/startup.md) for your group?
+| Daily Ideas and Tasks                       | [Who did what](https://github.com/kyle1james/9th_grade_boot_camp/blob/master/how_to_things.md#daily-ideas-and-tasks) and any ideas you have for your startup
 
 # Links:
 
