@@ -83,6 +83,8 @@ Choose your own adventure. Comment your code as you build!
 ### Full Example
 ![tic](https://github.com/kyle1james/9th_grade_boot_camp/blob/master/1/tic.png)
 
+![term](https://github.com/kyle1james/9th_grade_boot_camp/blob/master/1/cmd-l.png)
+
 
 
 # Ideas for Program
