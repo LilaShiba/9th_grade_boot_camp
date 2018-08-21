@@ -64,7 +64,9 @@ Everyday, you will be thinking about and recording your ideas for what your star
 
 ## MVP
 
-| Reading                             |[minimum viable product](http://ask.leanstack.com/lean-startup-fundamentals/what-is-a-minimum-viable-product-mvp)
+| Reading                                     | Link         
+| --------------------------------------------|------------------------------------------------------------------------------
+| leanstack                                   |[minimum viable product](http://ask.leanstack.com/lean-startup-fundamentals/what-is-a-minimum-viable-product-mvp)
 
 A minimum viable product (MVP) is a product with just enough features to satisfy early customers, and to provide feedbac k for future product development (wiki)
 
@@ -79,11 +81,14 @@ A minimum viable product (MVP) is a product with just enough features to satisfy
 ![lean2](https://www.lightcastlebd.com/wp-content/uploads/2017/07/MVP-lean.jpg)
 
 
-### Empathy Interviews
+## Empathy Interviews
 ![rsearch](https://gifer.com/i/7jLl.gif)
 
-Reading:
-[What is an empathy interview](https://medium.com/@StaceyDyer/design-thinking-what-is-an-empathy-interview-25f71bd496d7)
+| Reading                                     | Link         
+| --------------------------------------------|------------------------------------------------------------------------------
+| Medium                                      |[What is an empathy interview](https://medium.com/@StaceyDyer/design-thinking-what-is-an-empathy-interview-25f71bd496d7)
+
+
 
 Empathy interviews are the cornerstone of Design Thinking. Through ethnographic research techniques. 
 
@@ -98,8 +103,10 @@ Empathy interviews are the cornerstone of Design Thinking. Through ethnographic 
 ### Assumption Testing
 ![atesting](https://i.gifer.com/Y4Cu.gif)
 
-Reading:
-[assumption testing](https://medium.com/product-ponderings/assumption-validation-flowchart-9dc42293b612)
+
+| Reading                                     | Link         
+| --------------------------------------------|------------------------------------------------------------------------------
+| Medium                                      |[assumption testing](https://medium.com/product-ponderings/assumption-validation-flowchart-9dc42293b612)
 
 Before you decide what to build think about what assumptions are being made. After you’ve identified them… VALIDATE!!! If you’re a higher level manager, you should always ask, “What decisions associated with the product have been tested?” This will allow you to know how many assumptions have been validated in steps like the below.
 
