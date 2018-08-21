@@ -62,12 +62,11 @@ Everyday, you will be thinking about and recording your ideas for what your star
 # LEAN 
 ![lean](https://cdn-images-1.medium.com/max/1600/1*on4F6YPMJ4GPq95VVYVFrw.gif)
 
-### MVP
+## MVP
 
-Reading:
-- [minimum viable product](http://ask.leanstack.com/lean-startup-fundamentals/what-is-a-minimum-viable-product-mvp)
+| Reading                             |[minimum viable product](http://ask.leanstack.com/lean-startup-fundamentals/what-is-a-minimum-viable-product-mvp)
 
-A minimum viable product (MVP) is a product with just enough features to satisfy early customers, and to provide feedback for future product development (wiki)
+A minimum viable product (MVP) is a product with just enough features to satisfy early customers, and to provide feedbac k for future product development (wiki)
 
 - Go through your notes of ideas for your final product and choose a goal for your startup
 - [Formulate an elevator pitch](https://www.forbes.com/sites/chicceo/2013/02/05/how-to-create-an-elevator-pitch/#761ac39861eb) of how you will meet your startup's goal
