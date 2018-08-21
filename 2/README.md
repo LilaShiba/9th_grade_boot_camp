@@ -24,7 +24,7 @@ The Lean Startup provides a scientific approach to creating and managing startup
 | Second prototype                            | Highlight what has been changed and why
 | Daily documentation                         | [Detail](https://github.com/kyle1james/9th_grade_boot_camp/blob/master/how_to_things.md#daily-ideas-and-tasks)  who did what and any ideas
 | Conduct Debate                              | [link](https://github.com/kyle1james/9th_grade_boot_camp#debate) Speech one done, highlight potential counter arguments
-| Public Presentation                         | Ted Talk or Pitch for funding
+| Public Presentation                         | [Ted Talk](https://github.com/kyle1james/9th_grade_boot_camp/tree/master/2#ted-talk) or [Pitch](https://github.com/kyle1james/9th_grade_boot_camp/tree/master/2#pitch) for funding
 
 #### Roles
 
@@ -69,20 +69,41 @@ Reading:
 
 A minimum viable product (MVP) is a product with just enough features to satisfy early customers, and to provide feedback for future product development (wiki)
 
-Go through your notes of ideas for your final product and create three POV statements with your group.
+- Go through your notes of ideas for your final product and choose a goal for your startup
+- [Formulate an elevator pitch](https://www.forbes.com/sites/chicceo/2013/02/05/how-to-create-an-elevator-pitch/#761ac39861eb) of how you will meet your startup's goal
+- Highlight three assumptions your startup has and
+- Conduct three assumption [tests](https://github.com/kyle1james/9th_grade_boot_camp/tree/master/2#assumption-testing) documenting your interviews
+- From your assumption testing notes, create three POV statements with your group
+- Outline who will do what for creating the MVP
+- Create one MVP with your group
 
 ![lean2](https://www.lightcastlebd.com/wp-content/uploads/2017/07/MVP-lean.jpg)
 
-### POV Statements
-
-
 
 ### Empathy Interviews
+![rsearch](https://gifer.com/i/7jLl.gif)
 
+Reading:
+[What is an empathy interview](https://medium.com/@StaceyDyer/design-thinking-what-is-an-empathy-interview-25f71bd496d7)
 
+Empathy interviews are the cornerstone of Design Thinking. Through ethnographic research techniques. 
+
+- Once you have finished your MVP conduct a minimum of three empathy interviews: with the goal of conducting several
+- Take notes during and after your MVP interviews
+- Highlight three things you want to change based off of your empathy interviews
+- Do you need to do more testing? Meet with a teacher to find out
+- Outline who will do what for creating the second prototype
+- Create the second prototype with your group 
 
 
 ### Assumption Testing
+![atesting](https://i.gifer.com/Y4Cu.gif)
+
+Reading:
+[assumption testing](https://medium.com/product-ponderings/assumption-validation-flowchart-9dc42293b612)
+
+Before you decide what to build think about what assumptions are being made. After you’ve identified them… VALIDATE!!! If you’re a higher level manager, you should always ask, “What decisions associated with the product have been tested?” This will allow you to know how many assumptions have been validated in steps like the below.
+
 
 
 
