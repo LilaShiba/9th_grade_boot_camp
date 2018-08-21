@@ -20,7 +20,7 @@ The Lean Startup provides a scientific approach to creating and managing startup
 | Three empathy interviews                    | [Empathy Interviews](https://github.com/kyle1james/9th_grade_boot_camp/tree/master/2#empathy-interviews) should be documented
 | Three assumption tests                      | [Tests](https://github.com/kyle1james/9th_grade_boot_camp/tree/master/2#assumption-testing) should be documented
 | Three major changes to final product        | Based off of empathy interviews and assumption tests
-| Time line and TODO's                        | Create a timeline for building and lanuching your second prototype
+| Time line and TODO's                        | Create a timeline for building and lanuching your MVP and second prototype
 | Second prototype                            | Highlight what has been changed and why
 | Daily documentation                         | [Detail](https://github.com/kyle1james/9th_grade_boot_camp/blob/master/how_to_things.md#daily-ideas-and-tasks)  who did what and any ideas
 | Conduct Debate                              | [link](https://github.com/kyle1james/9th_grade_boot_camp#debate) Speech one done, highlight potential counter arguments
