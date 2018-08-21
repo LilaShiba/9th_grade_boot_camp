@@ -2,17 +2,16 @@
 ![kiki](https://i.chzbgr.com/full/8802656768/h4ECC5C42/)
 
 The Lean Startup provides a scientific approach to creating and managing startups and get a desired product to customers' hands faster. The Lean Startup method teaches you how to drive a startup-how to steer, when to turn, and when to persevere-and grow a business with maximum acceleration. It is a principled approach to new product development 
+ 
+[read the source](http://theleanstartup.com/principles).
 
-**read the source**
-- [source](http://theleanstartup.com/principles).
-
-#### Goals
+### Goals
 
 **Prototype** You will have two functioning prototypes of your product or service. This can be a program, a working model, etc. The changes you made to improve your product are of the utmost importance.
 
 **Pitch or Ted Talk** You will need to present your startup in a public forum. You may either pitch- with the goal of obtaining funding- or give a ted talk to convey the impact of your startup and its' mission.
 
-#### Check list
+### Check list
 
 | What                                        | Link         
 | --------------------------------------------|------------------------------------------------------------------------------
@@ -30,12 +29,6 @@ The Lean Startup provides a scientific approach to creating and managing startup
 #### Roles
 
 
-##### Method
-The main method of obtaining these goals will be the LEAN cycle
-
-LEAN for programming:
-
-![lean1](https://timesheetchronicles.files.wordpress.com/2015/05/lean-startup-cycle.png?w=620)
 
 
 # What Should I Make
@@ -69,7 +62,7 @@ Everyday, you will be thinking about and recording your ideas for what your star
 # LEAN 
 ![lean](https://cdn-images-1.medium.com/max/1600/1*on4F6YPMJ4GPq95VVYVFrw.gif)
 
-#### MVP
+### MVP
 
 Reading:
 - [minimum viable product](http://ask.leanstack.com/lean-startup-fundamentals/what-is-a-minimum-viable-product-mvp)
@@ -80,22 +73,21 @@ Go through your notes of ideas for your final product and create three POV state
 
 ![lean2](https://www.lightcastlebd.com/wp-content/uploads/2017/07/MVP-lean.jpg)
 
-#### POV Statements
+### POV Statements
 
 
 
-#### Empathy Interviews
+### Empathy Interviews
 
 
 
 
-#### Assumption Testing
+### Assumption Testing
 
 
-### Presentation
 
-#### Ted Talk
+### Ted Talk
 
 
-#### Pitch
+### Pitch
 ![pitch](https://i.gifer.com/DbE2.gif)
