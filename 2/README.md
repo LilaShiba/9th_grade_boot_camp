@@ -16,15 +16,15 @@ The Lean Startup provides a scientific approach to creating and managing startup
 
 | What                                        | Link         
 | --------------------------------------------|------------------------------------------------------------------------------
-| First prototype                             | [minimum viable product](http://ask.leanstack.com/lean-startup-fundamentals/what-is-a-minimum-viable-product-mvp)
-| Three POV's                                 | Notes should be documented
-| Three empathy interviews                    | Notes should be documented
-| Three assumption tests                      | Notes should be documented
+| First prototype                             | [minimum viable product](https://github.com/kyle1james/9th_grade_boot_camp/tree/master/2#mvp)
+| Three POV's                                 | [POV](https://github.com/kyle1james/9th_grade_boot_camp/tree/master/2#pov-statements) Notes should be documented
+| Three empathy interviews                    | [Empathy Interviews](https://github.com/kyle1james/9th_grade_boot_camp/tree/master/2#empathy-interviews) should be documented
+| Three assumption tests                      | [Tests](https://github.com/kyle1james/9th_grade_boot_camp/tree/master/2#assumption-testing) should be documented
 | Three major changes to final product        | Based off of empathy interviews and assumption tests
 | Time line and TODO's                        | Create a timeline for building and lanuching your second prototype
 | Second prototype                            | Highlight what has been changed and why
-| Daily documentation                         | Detail who did what and any ideas
-| Conduct Debate                              | Speech one done, highlight potential counter arguments
+| Daily documentation                         | [Detail](https://github.com/kyle1james/9th_grade_boot_camp/blob/master/how_to_things.md#daily-ideas-and-tasks)  who did what and any ideas
+| Conduct Debate                              | [link](https://github.com/kyle1james/9th_grade_boot_camp#debate) Speech one done, highlight potential counter arguments
 | Public Presentation                         | Ted Talk or Pitch for funding
 
 #### Roles
@@ -92,6 +92,7 @@ Go through your notes of ideas for your final product and create three POV state
 #### Assumption Testing
 
 
+### Presentation
 
 #### Ted Talk
 
