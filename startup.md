@@ -4,6 +4,7 @@ This will be the last lab of this unit. By this point you will have the skills t
 
 #### Goals
 **Prototype** You will have a functioning prototype of your product or service. This can be a program, a working model, etc.
+
 **Pitch or Ted Talk** You will need to present your startup in a public forum. You may either pitch- with the goal of obtaining funding- or give a ted talk to convey the impact of your startup
 
 ##### Method
@@ -39,4 +40,10 @@ Some topics for this unit are as follows:
 - Make the world better
 - Continue project from last year
 
-You should be thinking about and recording your ideas for what your startup will do everyday. You may come up with your own topic, however, it needs to be approved by your teacher.
+#### NYC Goals
+- [nycgoals](https://onenyc.cityofnewyork.us/)
+
+#### NASA Goals
+- [NASA](https://www.nasa.gov/about/whats_next.html)
+
+Everyday, you will be thinking about and recording your ideas for what your startup will do. You may come up with your own topic, however, it needs to be approved by your teacher.
