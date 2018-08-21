@@ -111,10 +111,31 @@ Empathy interviews are the cornerstone of Design Thinking. Through ethnographic 
 Before you decide what to build think about what assumptions are being made. After you’ve identified them… VALIDATE!!! If you’re a higher level manager, you should always ask, “What decisions associated with the product have been tested?” This will allow you to know how many assumptions have been validated in steps like the below.
 
 
+# Presentations
+
+**add rubric here**
+
+#### Ted Talk
+
+At TED, we search year-round for presenters who will inform and inspire, surprise and delight. Our presenters run the world's most admired companies and design its best-loved products; they invent world-changing devices and create ground-breaking media. They are trusted voices and convention-breaking mavericks, icons and geniuses [source](https://www.ted.com/about/conferences/speaking-at-ted).
+
+TED isn't a typical conference. The TED audience has high expectations of the speakers; the TED speaker team works with speakers well in advance of the conference to help shape a presentation that will succeed on the TED stage. TED is the place to give the talk of your life [source](https://www.ted.com/about/conferences/speaking-at-ted).
 
 
-### Ted Talk
+| Reading                                     | Link         
+| --------------------------------------------|------------------------------------------------------------------------------
+| How to make a ted talk                      | [TED](https://www.ted.com/playlists/574/how_to_make_a_great_presentation)
+| Script and Outline                          | [TED](https://www.ted.com/participate/organize-a-local-tedx-event/tedx-organizer-guide/speakers-program/prepare-your-speaker/outline-script)
+|
+
+**Steps**
+- Read the two articles
+- Outline and write script
+- Test talk on three peers
+- Collect feedback from peers
+- Make three major changes (document what you changed)
+- Present
 
 
-### Pitch
+#### Pitch
 ![pitch](https://i.gifer.com/DbE2.gif)
