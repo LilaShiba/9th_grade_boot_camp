@@ -26,11 +26,6 @@ The Lean Startup provides a scientific approach to creating and managing startup
 | Conduct Debate                              | [link](https://github.com/kyle1james/9th_grade_boot_camp#debate) Speech one done, highlight potential counter arguments
 | Public Presentation                         | [Ted Talk](https://github.com/kyle1james/9th_grade_boot_camp/tree/master/2#ted-talk) or [Pitch](https://github.com/kyle1james/9th_grade_boot_camp/tree/master/2#pitch) for funding
 
-#### Roles
-
-
-
-
 # What Should I Make
 
 What speaks to you? The only real goal of this unit is to empower you by teaching the skills needed to make an idea into reality. 
@@ -68,6 +63,8 @@ Everyday, you will be thinking about and recording your ideas for what your star
 | --------------------------------------------|------------------------------------------------------------------------------
 | leanstack                                   |[minimum viable product](http://ask.leanstack.com/lean-startup-fundamentals/what-is-a-minimum-viable-product-mvp)
 
+![lean2](https://www.lightcastlebd.com/wp-content/uploads/2017/07/MVP-lean.jpg)
+
 A minimum viable product (MVP) is a product with just enough features to satisfy early customers, and to provide feedbac k for future product development (wiki)
 
 - Go through your notes of ideas for your final product and choose a goal for your startup
@@ -78,17 +75,15 @@ A minimum viable product (MVP) is a product with just enough features to satisfy
 - Outline who will do what for creating the MVP
 - Create one MVP with your group
 
-![lean2](https://www.lightcastlebd.com/wp-content/uploads/2017/07/MVP-lean.jpg)
 
 
 ## Empathy Interviews
-![rsearch](https://gifer.com/i/7jLl.gif)
 
 | Reading                                     | Link         
 | --------------------------------------------|------------------------------------------------------------------------------
 | Medium                                      |[What is an empathy interview](https://medium.com/@StaceyDyer/design-thinking-what-is-an-empathy-interview-25f71bd496d7)
 
-
+![rsearch](https://gifer.com/i/7jLl.gif)
 
 Empathy interviews are the cornerstone of Design Thinking. Through ethnographic research techniques. 
 
@@ -101,12 +96,12 @@ Empathy interviews are the cornerstone of Design Thinking. Through ethnographic 
 
 
 ### Assumption Testing
-![atesting](https://i.gifer.com/Y4Cu.gif)
-
 
 | Reading                                     | Link         
 | --------------------------------------------|------------------------------------------------------------------------------
 | Medium                                      |[assumption testing](https://medium.com/product-ponderings/assumption-validation-flowchart-9dc42293b612)
+
+![atesting](https://i.gifer.com/Y4Cu.gif)
 
 Before you decide what to build think about what assumptions are being made. After you’ve identified them… VALIDATE!!! If you’re a higher level manager, you should always ask, “What decisions associated with the product have been tested?” This will allow you to know how many assumptions have been validated in steps like the below.
 
@@ -126,7 +121,6 @@ TED isn't a typical conference. The TED audience has high expectations of the sp
 | --------------------------------------------|------------------------------------------------------------------------------
 | How to make a ted talk                      | [TED](https://www.ted.com/playlists/574/how_to_make_a_great_presentation)
 | Script and Outline                          | [TED](https://www.ted.com/participate/organize-a-local-tedx-event/tedx-organizer-guide/speakers-program/prepare-your-speaker/outline-script)
-|
 
 **Steps**
 - Read the two articles
