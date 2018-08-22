@@ -112,15 +112,15 @@ Before you decide what to build think about what assumptions are being made. Aft
 
 #### Ted Talk
 
-At TED, we search year-round for presenters who will inform and inspire, surprise and delight. Our presenters run the world's most admired companies and design its best-loved products; they invent world-changing devices and create ground-breaking media. They are trusted voices and convention-breaking mavericks, icons and geniuses [source](https://www.ted.com/about/conferences/speaking-at-ted).
-
-TED isn't a typical conference. The TED audience has high expectations of the speakers; the TED speaker team works with speakers well in advance of the conference to help shape a presentation that will succeed on the TED stage. TED is the place to give the talk of your life [source](https://www.ted.com/about/conferences/speaking-at-ted).
-
-
 | Reading                                     | Link         
 | --------------------------------------------|------------------------------------------------------------------------------
 | How to make a ted talk                      | [TED](https://www.ted.com/playlists/574/how_to_make_a_great_presentation)
 | Script and Outline                          | [TED](https://www.ted.com/participate/organize-a-local-tedx-event/tedx-organizer-guide/speakers-program/prepare-your-speaker/outline-script)
+
+At TED, we search year-round for presenters who will inform and inspire, surprise and delight. Our presenters run the world's most admired companies and design its best-loved products; they invent world-changing devices and create ground-breaking media. They are trusted voices and convention-breaking mavericks, icons and geniuses [source](https://www.ted.com/about/conferences/speaking-at-ted).
+
+TED isn't a typical conference. The TED audience has high expectations of the speakers; the TED speaker team works with speakers well in advance of the conference to help shape a presentation that will succeed on the TED stage. TED is the place to give the talk of your life [source](https://www.ted.com/about/conferences/speaking-at-ted).
+
 
 **Steps**
 - Read the two articles
@@ -132,4 +132,27 @@ TED isn't a typical conference. The TED audience has high expectations of the sp
 
 
 #### Pitch
+
+| Reading                                               | Link         
+| ------------------------------------------------------|------------------------------------------------------------------------------
+| What Makes a Good Pitch                               | [npr](https://training.npr.org/audio/what-makes-a-good-pitch-npr-editors-weigh-in/)
+| CEO of Cleeng and winner of the B2B StartUp award     | [Video](https://www.youtube.com/watch?v=R7HfFkBdE4A)
+| Ksplice at MIT. 100k winner                           | [Video](https://www.youtube.com/watch?v=a22T27rU4b0)
+
+
 ![pitch](https://i.gifer.com/DbE2.gif)
+
+Startups frequently prepare a “pitch deck” to present their company to prospective angel or venture capital investors. The pitch deck typically consists of 15-20 slides in a PowerPoint presentation and is intended to showcase the company’s products, technology, and team to the investors.
+
+Raising capital from investors is difficult and time consuming. Therefore, it’s crucial that a startup absolutely nails its investor pitch deck and articulates a compelling and interesting story [source](https://www.forbes.com/sites/allbusiness/2017/03/04/how-to-create-a-great-investor-pitch-deck-for-startups-seeking-financing/#6f9f3c5a2003).
+
+**Steps**
+- Read and watch the videos
+- Outline the 'control flow' of your pitch
+- Test pitch on three peers
+- Collect feedback from peers
+- Make three major changes (document what you changed)
+- Present
+
+
+
