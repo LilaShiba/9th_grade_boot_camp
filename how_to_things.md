@@ -13,6 +13,7 @@ Key take aways:
 
 ### Key Topics to Cover
 These topics should be addressed in the corresponding how-to guides. These are your key takeaways.
+
 ![11](https://media0.giphy.com/media/3ohhwLCRptkjfHHiuY/giphy.gif)
 
 - Data Types
@@ -24,8 +25,6 @@ These topics should be addressed in the corresponding how-to guides. These are y
 - Beta Testing
 - Debugging
 - Algorithms
-
-
 - Methods (how to create/use)
 - Data Structures (how to create/use)
 
@@ -40,7 +39,8 @@ Your group should have a google doc that details what was done by whom for every
 
 Your ideas are any thoughts- however strange- in connection with class and the end goal of this unit: creating a startup. By the time we get to the last lab you will have several ideas documented about what you want your startup to do, what role you want to play, and a deeper understanding of how your team works.
 
-Feel free to keep a notebook. 
+Feel free to keep a notebook.
+
 
 **Example Ideation in Notebook**
 
