@@ -75,7 +75,7 @@ Our round of team policy debate consists of four speeches.  The first two speech
 
 
 ### How to Run a Program
-[more on how to run a program](http://bfy.tw/JUTI)
+[more on how to run a program](http://bfy.tw/JUTI). This is a key skill for programmers.
 
 ![file path pic](https://github.com/kyle1james/9th_grade_boot_camp/blob/master/0/filepath.png)
 
