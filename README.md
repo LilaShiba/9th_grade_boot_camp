@@ -11,7 +11,7 @@
 - This [source](https://automatetheboringstuff.com/chapter0/) will be the greatest help for this unit
 
 **Language**:
-Python will be used for the following reasons: 
+Python is the recommended language for the following reasons: 
 - [reason one](https://stackoverflow.blog/2017/09/14/python-growing-quickly/) 
 - [reason two](https://stackoverflow.blog/2017/09/06/incredible-growth-python/). 
 
@@ -70,8 +70,11 @@ Our round of team policy debate consists of four speeches.  The first two speech
 ![doggo](https://github.com/kyle1james/9th_grade_boot_camp/blob/master/IgnDYD9.gif)
 
 # Programming Cheat Sheet
+| Rrading                                     | Link         
+| --------------------------------------------|------------------------------------------------------------------------------
+| Python Automate the Boring Stuff            | [basics](https://automatetheboringstuff.com/chapter1/)
 
-- [basics](https://automatetheboringstuff.com/chapter1/)
+
 
 
 ### How to Run a Program
