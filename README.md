@@ -70,7 +70,7 @@ Our round of team policy debate consists of four speeches.  The first two speech
 ![doggo](https://github.com/kyle1james/9th_grade_boot_camp/blob/master/IgnDYD9.gif)
 
 # Programming Cheat Sheet
-| Rrading                                     | Link         
+| Reading                                     | Link         
 | --------------------------------------------|------------------------------------------------------------------------------
 | Python Automate the Boring Stuff            | [basics](https://automatetheboringstuff.com/chapter1/)
 
