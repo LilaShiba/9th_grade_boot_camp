@@ -12,7 +12,8 @@ Key take aways:
 **You should find the path that speaks most to you**
 
 ### Key Topics to Cover
-These topics should be addressed in the corresponding how-to guides
+These topics should be addressed in the corresponding how-to guides. These are your key takeaways.
+![11](https://media0.giphy.com/media/3ohhwLCRptkjfHHiuY/giphy.gif)
 
 - Data Types
 - Variables
@@ -22,6 +23,7 @@ These topics should be addressed in the corresponding how-to guides
 - Logic Diagram
 - Beta Testing
 - Debugging
+- Algorithms
 
 
 - Methods (how to create/use)
