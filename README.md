@@ -64,7 +64,7 @@ Our round of team policy debate consists of four speeches.  The first two speech
 
 #### Debate Topics
 - [Not Everyone Should Code](https://www.youtube.com/watch?v=EFwa5Owp0-k)
-- [The Singularity](https://www.newyorker.com/magazine/2018/05/14/how-frightened-should-we-be-of-ai)
+- [The Singularity](https://www.newyorker.com/magazine/2018/05/14/how-frightened-should-we-be-of-ai)🤖 
 
 
 ![doggo](https://github.com/kyle1james/9th_grade_boot_camp/blob/master/IgnDYD9.gif)
