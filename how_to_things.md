@@ -39,7 +39,16 @@ Your group should have a google doc that details what was done by whom for every
 
 Your ideas are any thoughts- however strange- in connection with class and the end goal of this unit: creating a startup. By the time we get to the last lab you will have several ideas documented about what you want your startup to do, what role you want to play, and a deeper understanding of how your team works.
 
-Feel free to keep a notebook.
+**Examples**
+[scrum](https://blog.rapidapi.com/beyond-scrum-getting-to-continuous-deployment/)
+
+![scrum](https://blog.rapidapi.com/wp-content/uploads/2017/08/giphy-16.gif)
+
+Feel free to keep a notebook or use digital means: [trello](https://trello.com/)
+
+A good ole whiteboard and post-its works fine too:
+
+![pic](http://robertostefanettinavblog.com/wp-content/uploads/2016/01/3879260297_dfc867d531_b.jpg)
 
 
 **Example Ideation in Notebook**
