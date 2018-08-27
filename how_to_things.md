@@ -34,10 +34,9 @@ These topics should be addressed in the corresponding how-to guides. These are y
 | Make guide for program from lab 0           | Can be commented code or video, game, etc
 | Make guide for program from lab 1           | Can be commented code or video, game, etc
 
-### Daily Ideas and Tasks
-Your group should have a google doc that details what was done by whom for everyday of class. This is to track work, to make sure the work load is fair, and to keep a record of ideas. This isn't meant to be busy work or to take a long time. At the end of each class you will be given 5 mins to fill this out and to check the FAQ.
+### SCRUM: Daily Tasks
+Your group should have a scrum meeting every class. This is [why](https://www.youtube.com/watch?v=TRcReyRYIMg). At the start or end of each class you will be given 5 mins to fill this out and to check the FAQ.
 
-Your ideas are any thoughts- however strange- in connection with class and the end goal of this unit: creating a startup. By the time we get to the last lab you will have several ideas documented about what you want your startup to do, what role you want to play, and a deeper understanding of how your team works.
 
 **Examples**
 [scrum](https://blog.rapidapi.com/beyond-scrum-getting-to-continuous-deployment/)
@@ -50,6 +49,9 @@ A good ole whiteboard and post-its works fine too:
 
 ![pic](http://robertostefanettinavblog.com/wp-content/uploads/2016/01/3879260297_dfc867d531_b.jpg)
 
+### Daily Ideas
+
+Your ideas are any thoughts- however strange- in connection with class and the end goal of this unit: creating a startup. By the time we get to the last lab you will have several ideas documented about what you want your startup to do, what role you want to play, and a deeper understanding of how your team works.
 
 **Example Ideation in Notebook**
 
