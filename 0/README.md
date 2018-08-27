@@ -37,7 +37,7 @@ At the end of each class, document what each team member worked on.
 | Have first debate speech rough draft	      | See teacher to get topic
 | First teacher meeting			      | Sign on up
 | Ask or Answer three things in FAQ 	      | Use that link!
-| Daily task list			      | Name of group member followed by what was done each day.
+| Daily task list			      | Name of group member followed by what was done each day on post-its
 
 
 # Game Walk-a-long
