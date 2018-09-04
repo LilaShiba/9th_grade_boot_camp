@@ -1,8 +1,4 @@
-# Programming Boot Camp
-
-**Goal**: By the end of this boot camp you will know the basics of programming, the current debates in comp sci, your role in your company, and have three ideas for what your startup will do or create.
-
-**Method** Your group will hone in on one type of technology: hands on building with hardware, backend programming, or visual programming. You will then create a startup that has a product or service that changes the way we view and interact with the world
+# Programming 101
 
 **What is Programming?**
 
@@ -40,9 +36,6 @@ Take time now to pick a language to use. Read through the sources given and give
 | What                                        | Link         
 | --------------------------------------------|------------------------------------------------------------------------------
 | Mr. James meeting sign up                   | [link]("#")
-| Mr. Moran meeting sign up                   | [link]("#")
-| Mrs. Ju meeting sign up                     | [link]("#")
-| Mr. New Guy sign up                         | [link]("#")
 | Python FAQ                                  | [link]("#")
 | P5JS FAQ                                    | [link]("#")
 | Circuit Playground FAQ                      | [link]("#")
